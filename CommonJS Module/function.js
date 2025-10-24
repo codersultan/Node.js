@@ -1,0 +1,1 @@
+const ageCal = (name, year) => {};
